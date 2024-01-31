@@ -6,17 +6,9 @@ This project visualizes earthquake data provided by the United States Geological
 ## Features
 - Interactive map with zoom and pan capabilities.
 - Earthquake markers sized according to magnitude.
-- Marker colors that represent the depth of the earthquakes.
+- Marker colours that represent the depth of the earthquakes.
 - Popups that provide additional information about each earthquake event.
-- A legend explaining the color scale in relation to the earthquake depths.
+- A legend explaining the colour scale in relation to the earthquake depths.
 
 ## Screenshot
 ![Earthquake Data Visualization Screenshot](Leaflet-Part-1/Screenshot.png)
-
-## Getting Started
-To get a local copy up and running, follow these simple steps:
-
-### Prerequisites
-Ensure you have the following installed:
-- A modern web browser
-- A text editor (e.g., VSCode, Atom)
