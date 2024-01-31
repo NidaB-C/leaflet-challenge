@@ -10,9 +10,6 @@ This project visualizes earthquake data provided by the United States Geological
 - Popups that provide additional information about each earthquake event.
 - A legend explaining the color scale in relation to the earthquake depths.
 
-## Live Demo
-[View the live demo of the Earthquake Data Visualization](YOUR_GITHUB_PAGES_LINK)
-
 ## Screenshot
 ![Earthquake Data Visualization Screenshot](path/to/screenshot.png)
 
