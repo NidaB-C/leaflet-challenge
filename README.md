@@ -11,7 +11,7 @@ This project visualizes earthquake data provided by the United States Geological
 - A legend explaining the color scale in relation to the earthquake depths.
 
 ## Screenshot
-![Earthquake Data Visualization Screenshot](path/to/screenshot.png)
+![Earthquake Data Visualization Screenshot](Leaflet-Part-1/Screenshot.png)
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
